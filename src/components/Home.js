@@ -1,21 +1,23 @@
 import React from "react";
-import MyImage from "../MyImage/p-1.jpg";
 
 function Home(props) {
   // console.warn("Home", props.data);
   return (
     <>
-      <h1>Campaign Cart</h1>
       <div className='cart-wrapper'>
         <div className='img-wrapper item'>
-          <img src={MyImage} alt='img' />
+          <img src={props.imageSource} alt='img' />
         </div>
         <div className='text-wrapper item'>
           <span>
             <b>Product:</b>
           </span>
-          <span>Sports & Fassion</span>
-          <span>Price: $1000.00</span>
+          <span>{props.productType}</span>
+          <br />
+          <span>
+            <b>Price:$</b>
+          </span>
+          <span>{props.price}</span>
         </div>
         <div className='btn-wrapper item'>
           <button
