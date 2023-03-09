@@ -1,3 +1,6 @@
+.body {
+  background-color: paleturquoise;
+}
 .App {
   text-align: center;
 }
@@ -40,6 +43,7 @@
   width: 100px;
 }
 .cart-wrapper {
+  background-color: #61dafb;
   height: 100px;
   width: 500px;
   border: 1px solid #ccc;
@@ -69,7 +73,7 @@
   border-radius: 50%;
   color: #fff;
 }
-.remove-cart-btn {
+button.remove-cart-btn {
   background-color: #ccc;
   margin-top: 8px;
 }
