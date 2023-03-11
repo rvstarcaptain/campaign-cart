@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rvstarcaptain.github.io/campaign-cart/static/css/main.0ced4150.css",
+    "main.js": "/rvstarcaptain.github.io/campaign-cart/static/js/main.41a03da3.js",
+    "static/js/787.7e208a80.chunk.js": "/rvstarcaptain.github.io/campaign-cart/static/js/787.7e208a80.chunk.js",
+    "static/media/p-2.jpg": "/rvstarcaptain.github.io/campaign-cart/static/media/p-2.434216364efce21054ff.jpg",
+    "static/media/p-1.jpg": "/rvstarcaptain.github.io/campaign-cart/static/media/p-1.363ef5230124fc6f44e2.jpg",
+    "static/media/p-3.jpg": "/rvstarcaptain.github.io/campaign-cart/static/media/p-3.d9522032d28eb66c1577.jpg",
+    "index.html": "/rvstarcaptain.github.io/campaign-cart/index.html",
+    "main.0ced4150.css.map": "/rvstarcaptain.github.io/campaign-cart/static/css/main.0ced4150.css.map",
+    "main.41a03da3.js.map": "/rvstarcaptain.github.io/campaign-cart/static/js/main.41a03da3.js.map",
+    "787.7e208a80.chunk.js.map": "/rvstarcaptain.github.io/campaign-cart/static/js/787.7e208a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ced4150.css",
+    "static/js/main.41a03da3.js"
+  ]
+}
